@@ -25,8 +25,20 @@
 .Header {
             color: black;
             text-align: center;
+            font-size: 30px;
 }
 
 body {
             background-color: white;
+}
+
+.heading {
+            text-align: left;
+            color: black;
+}
+
+.description {
+            text-align: left;
+            color: black;
+            font-size: 18px
 }
