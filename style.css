@@ -1,31 +1,32 @@
 .topnav {
-            background-color: yellow;
+            background-color: black;
             overflow: hidden;
 }
 
 .topnav a {
             float: left;
             display: block;
-            color: white;
+            color: yellow;
             text-align: center;
             padding: 14px 16px;
             text-decoration: none;
 }
 
   .topnav a:hover {
-            background-color: #FFFFE0;
+            background-color: white;
             color: black;
 }
 
 .topnav a.active {
-            background-color: yellow;
-            color: white;
+            background-color: white;
+            color: black;
 }
 
 .Header {
-            color:black;
+            color: black;
+            text-align: center;
 }
 
 body {
-            background-color: yellow;
+            background-color: white;
 }
