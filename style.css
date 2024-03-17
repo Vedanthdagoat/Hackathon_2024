@@ -42,3 +42,36 @@ body {
             color: black;
             font-size: 18px
 }
+
+.trivia_game {
+            padding-left: 100px;
+            padding-right: 100px;
+}
+
+.question {
+            text-align: left;
+}
+
+.option_1 {
+            background-color: #FF7F7F;
+            border-color: black;
+            border-radius: 5px;
+}
+
+.option_2 {
+            background-color: #3b90e1;
+            border-color: black;
+            border-radius: 5px;
+}
+
+.option_3 {
+            background-color: yellow;
+            border-color: black;
+            border-radius: 5px;
+}
+
+.option_4 {
+            background-color: gray;
+            border-color: black;
+            border-radius: 5px;
+}
