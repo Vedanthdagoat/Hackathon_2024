@@ -44,8 +44,8 @@ body {
 }
 
 .trivia_game {
-            padding-left: 100px;
-            padding-right: 100px;
+            padding-left: 200px;
+            padding-right: 200px;
 }
 
 .question {
@@ -53,7 +53,7 @@ body {
 }
 
 .option_1 {
-            background-color: #FF7F7F;
+            background-color: red;
             border-color: black;
             border-radius: 5px;
 }
@@ -75,3 +75,4 @@ body {
             border-color: black;
             border-radius: 5px;
 }
+            
