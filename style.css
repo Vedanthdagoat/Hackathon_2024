@@ -12,7 +12,7 @@
             text-decoration: none;
 }
 
-  .topnav a:hover {
+.topnav a:hover {
             background-color: white;
             color: black;
 }
@@ -79,29 +79,3 @@ body {
 .answer {
             color: green;
 }
-            
-.header {
-            padding: 20px;
-            text-align: center;
-        }
- 
-main {
-            padding: 20px;
-        }
-        
-table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-bottom: 20px;
-        }
-        
-th, td {
-            border: 1px solid #ddd;
-            padding: 8px;
-            text-align: left;
-        }
-        
-th {
-            background-color: #333;
-            color: black;
-        }
